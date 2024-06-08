@@ -7,9 +7,8 @@ The sql queery and scripts required to make all this work should automatically l
 In the case of leatherworking you need to retalk to the npc after completing the quest that unlocks the specilization and use a chat option, in the case of armor/weapon smithing you will get a quest telling you to talk to a nearby npc to do the same.
 
 ## Screenshots
-![page_one][(https://github.com/ZepplinCore-Development/multiple_specializations/blob/master/screenshots/page_one.png)]
-![page_two[[https://github.com/ZepplinCore-Development/multiple_specializations/blob/master/screenshots/page_two.png]
-
+![page_one][https://github.com/ZepplinCore-Development/multiple_specializations/blob/master/screenshots/page_one.png?raw=true]
+![page_two[[https://github.com/ZepplinCore-Development/multiple_specializations/blob/master/screenshots/page_two.png?raw=true]
 Requirements
 
 AzerothCore v4.0.0+
