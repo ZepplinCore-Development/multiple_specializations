@@ -7,9 +7,7 @@ The sql queery and scripts required to make all this work should automatically l
 In the case of leatherworking you need to retalk to the npc after completing the quest that unlocks the specilization and use a chat option, in the case of armor/weapon smithing you will get a quest telling you to talk to a nearby npc to do the same.
 
 ## Screenshots
-![page_one](/screenshots/page_one.png)
-
-![page_two](/screenshots/page_two.png)
+![page_one](/screenshots/page_one.png) ![page_two](/screenshots/page_two.png)
 
 
 ## Requirements
