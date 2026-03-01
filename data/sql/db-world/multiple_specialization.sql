@@ -69,8 +69,9 @@ DELETE FROM `quest_offer_reward` WHERE (`ID` = 65435);
 INSERT INTO `quest_offer_reward` (`ID`, `Emote1`, `Emote2`, `Emote3`, `Emote4`, `EmoteDelay1`, `EmoteDelay2`, `EmoteDelay3`, `EmoteDelay4`, `RewardText`, `VerifiedBuild`) VALUES
 (65435, 0, 0, 0, 0, 0, 0, 0, 0, 'You will need to talk to me to learn both armor smithing and weapon smithing when you\'ve finished the specialization quest.', 0);
 
-
-
+-- Add quest_template_addon entries so AC matches QuestSortID=-121 with RequiredSkillID=164 (Blacksmithing)
+INSERT IGNORE INTO `quest_template_addon` (`ID`, `RequiredSkillID`, `RequiredSkillPoints`)
+VALUES (65432, 164, 200), (65433, 164, 200), (65434, 164, 200), (65435, 164, 200);
 
 
 
